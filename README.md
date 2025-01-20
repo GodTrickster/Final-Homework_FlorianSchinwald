@@ -1,2 +1,2 @@
 # Final-Homework_FlorianSchinwald
-As the name ...
+This is the Code for the Final Project for the Scientific Programming Course
