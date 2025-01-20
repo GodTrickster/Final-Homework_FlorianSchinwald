@@ -1,6 +1,6 @@
 % Sternberg Memory Experiment_FinalHomework
 %Florian Schinwald
-Screen('Preference', 'SkipSyncTests', 1); % For testing purposes
+Screen('Preference', 'SkipSyncTests', 1); 
 myScreen = 0;
 [myWindow, rect] = Screen('OpenWindow', myScreen, [128 128 128]);
 Screen('TextSize', myWindow, 32);
